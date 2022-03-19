@@ -1,5 +1,4 @@
 <h1 align="center">frogdude1123</h1>
-<br/>
 Currently working on Geometry Incremental, a online incremental game
 <br/>
 <br/>
