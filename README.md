@@ -1,5 +1,7 @@
 <h1 align="center">frogdude1123</h1>
+<br/>
 Currently working on Geometry Incremental, a online incremental game
+<br/>
 <br/>
 <div align="center">
     <a href="https://www.youtube.com/channel/UCNTeMcd7BDOuNrVf1yRGZlA">
