@@ -1,7 +1,7 @@
 <h1 align="center">frogdude1123</h1>
 I make stuff sometimes.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frog1123&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frog1123&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
 <div align="center">
