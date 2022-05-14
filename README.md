@@ -1,5 +1,7 @@
 <h1 align="center">frogdude1123</h1>
-asdasdasdasdawdasd
+I make stuff sometimes.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frog1123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
 <div align="center">
