@@ -7,9 +7,11 @@ I make stuff sometimes.
 <br/>
 <br/>
 <div align="center">
+        
+    
     <a href="https://www.youtube.com/channel/UCNTeMcd7BDOuNrVf1yRGZlA">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
+    
+    ![](https://komarev.com/ghpvc/?username=frog1123&color=grey)
 </div>
-
-![](https://komarev.com/ghpvc/?username=frog1123&color=grey)
