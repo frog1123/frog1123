@@ -9,6 +9,7 @@ I make stuff sometimes.
 <div align="center">
     
     <div>
+        
         ![](https://komarev.com/ghpvc/?username=frog1123&color=grey)
     </div>
     <a href="https://www.youtube.com/channel/UCNTeMcd7BDOuNrVf1yRGZlA">
