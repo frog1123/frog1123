@@ -10,10 +10,10 @@ I make stuff sometimes.
     <a href="https://www.youtube.com/channel/UCNTeMcd7BDOuNrVf1yRGZlA">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
-    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=frog1123&color=grey&style=for-the-badge">
-    </a>
     <a href="https://frog1123.github.io/profile-page/pages/home/">
         <img src="https://img.shields.io/badge/%F0%9F%8C%B4-website-grey?labelColor=d9ed92&style=for-the-badge" alt="🌴" />
+    </a>
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=frog1123&color=grey&style=for-the-badge">
     </a>
 </div>
