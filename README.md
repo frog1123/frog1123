@@ -20,9 +20,9 @@ I make stuff sometimes.
 <div align="center">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" width="30px" height="30px" />
-    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/tailwindcss.svg" width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" width="30px" height="30px" />
+    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/tailwindcss.svg" width="30px" height="30px" />
     <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/nodejs.svg" width="30px" height="30px" />
     <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/yarn.svg" width="30px" height="30px" />
     <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/graphql.svg" width="30px" height="30px" />
