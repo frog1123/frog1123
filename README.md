@@ -26,6 +26,7 @@ I make stuff sometimes.
     <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/nodejs.svg" width="30px" height="30px" />
     <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/yarn.svg" width="30px" height="30px" />
     <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/graphql.svg" width="30px" height="30px" />
+    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/apollo.svg" width="30px" height="30px" />
     <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/git.svg" width="30px" height="30px" />
     <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/heroku.svg" width="30px" height="30px" />
 </div>
