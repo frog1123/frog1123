@@ -18,15 +18,26 @@ I make stuff sometimes.
     </a>
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/javascript.svg" width="30px" height="30px" />
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg" width="30px" height="30px" />
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/react.svg" width="30px" height="30px" />
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/next.svg" width="30px" height="30px" />
-    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/tailwindcss.svg" width="30px" height="30px" />
-    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/nodejs.svg" width="30px" height="30px" />
-    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/yarn.svg" width="30px" height="30px" />
-    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/graphql.svg" width="30px" height="30px" />
-    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/apollo.svg" width="30px" height="30px" />
-    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/git.svg" width="30px" height="30px" />
-    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/heroku.svg" width="30px" height="30px" />
+  <div align="center">
+    learning
+  </div>
+    <img src="./icons/javascript.svg" width="30px" height="30px" />
+    <img src="./icons/typescript.svg" width="30px" height="30px" />
+    <img src="./icons/react.svg" width="30px" height="30px" />
+    <img src="./icons/next.svg" width="30px" height="30px" />
+    <img src="./icons/tailwindcss.svg" width="30px" height="30px" />
+    <img src="./icons/nodejs.svg" width="30px" height="30px" />
+    <img src="./icons/yarn.svg" width="30px" height="30px" />
+    <img src="./icons/graphql.svg" width="30px" height="30px" />
+    <img src="./icons/apollo.svg" width="30px" height="30px" />
+    <img src="./icons/git.svg" width="30px" height="30px" />
+    <img src="./icons/heroku.svg" width="30px" height="30px" />
+</div>
+<div align="center">
+  <div align="center">
+    planning to learn
+  </div>
+    <img src="./icons/docker.svg" width="30px" height="30px" />
+    <img src="./icons/sass.svg" width="30px" height="30px" />
+    <img src="./icons/netlify.svg" width="30px" height="30px" />
 </div>
