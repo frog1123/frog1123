@@ -16,27 +16,27 @@ I make stuff sometimes.
   <div align="center">
     learning
   </div>
-    <a href="#"><img src="./icons/javascript.svg" width="30px" height="30px" /></a>
-    <img src="./icons/typescript.svg" width="30px" height="30px" />
-    <img src="./icons/react.svg" width="30px" height="30px" />
-    <img src="./icons/next.svg" width="30px" height="30px" />
-    <img src="./icons/tailwindcss.svg" width="30px" height="30px" />
-    <img src="./icons/nodejs.svg" width="30px" height="30px" />
-    <img src="./icons/yarn.svg" width="30px" height="30px" />
-    <img src="./icons/graphql.svg" width="30px" height="30px" />
-    <img src="./icons/apollo.svg" width="30px" height="30px" />
-    <img src="./icons/nest.svg" width="30px" height="30px" />
-    <img src="./icons/mongodb.png"  width="30px" height="30px" >
-    <img src="./icons/git.svg" width="30px" height="30px" />
-    <img src="./icons/heroku.svg" width="30px" height="30px" />
+    <a href="/frog1123/frog1123"><img src="./icons/javascript.svg" width="30px" height="30px" /></a>
+    <a href="/frog1123/frog1123"><img src="./icons/typescript.svg" width="30px" height="30px" /></a>
+    <a href="/frog1123/frog1123"><img src="./icons/react.svg" width="30px" height="30px" /></a>
+    <a href="/frog1123/frog1123"><img src="./icons/next.svg" width="30px" height="30px" /></a>
+    <a href="/frog1123/frog1123"><img src="./icons/tailwindcss.svg" width="30px" height="30px" /></a>
+    <a href="/frog1123/frog1123"><img src="./icons/nodejs.svg" width="30px" height="30px" /></a>
+    <a href="/frog1123/frog1123"><img src="./icons/yarn.svg" width="30px" height="30px" /></a>
+    <a href="/frog1123/frog1123"><img src="./icons/graphql.svg" width="30px" height="30px" /></a>
+    <a href="/frog1123/frog1123"><img src="./icons/apollo.svg" width="30px" height="30px" /></a>
+    <a href="/frog1123/frog1123"><img src="./icons/nest.svg" width="30px" height="30px" /></a>
+    <a href="/frog1123/frog1123"><img src="./icons/mongodb.png"  width="30px" height="30px" ></a>
+    <a href="/frog1123/frog1123"><img src="./icons/git.svg" width="30px" height="30px" /></a>
+    <a href="/frog1123/frog1123"><img src="./icons/heroku.svg" width="30px" height="30px" /></a>
 </div>
 <div align="center">
   <div align="center">
     planning to learn
     <div>
-      <img src="./icons/docker.svg" width="30px" height="30px" />
-      <img src="./icons/sass.svg" width="30px" height="30px" />
-      <img src="./icons/netlify.svg" width="30px" height="30px" />
+      <a href="/frog1123/frog1123"><img src="./icons/docker.svg" width="30px" height="30px" /></a>
+      <a href="/frog1123/frog1123"><img src="./icons/sass.svg" width="30px" height="30px" /></a>
+      <a href="/frog1123/frog1123"><img src="./icons/netlify.svg" width="30px" height="30px" /></a>
     </div>
   </div>
 </div>
