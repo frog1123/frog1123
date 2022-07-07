@@ -30,6 +30,7 @@ I make stuff sometimes.
     <img src="./icons/yarn.svg" width="30px" height="30px" />
     <img src="./icons/graphql.svg" width="30px" height="30px" />
     <img src="./icons/apollo.svg" width="30px" height="30px" />
+    <img src="./icons/nest.svg" width="30px" height="30px" />
     <img src="./icons/mongodb.png"  width="30px" height="30px" >
     <img src="./icons/git.svg" width="30px" height="30px" />
     <img src="./icons/heroku.svg" width="30px" height="30px" />
