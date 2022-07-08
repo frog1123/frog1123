@@ -16,7 +16,7 @@ I make stuff sometimes.
   <div align="center">
     learning
   </div>
-    <a href="#"><img src="./icons/javascript.svg" width="30px" height="30px" /></a>
+    <img src="./icons/javascript.svg" width="30px" height="30px" />
     <img src="./icons/typescript.svg" width="30px" height="30px" />
     <img src="./icons/react.svg" width="30px" height="30px" />
     <img src="./icons/next.svg" width="30px" height="30px" />
@@ -35,6 +35,7 @@ I make stuff sometimes.
     planning to learn
     <div>
       <img src="./icons/docker.svg" width="30px" height="30px" />
+      <img src="./icons/go.svg" width="30px" height="30px" />
       <img src="./icons/sass.svg" width="30px" height="30px" />
       <img src="./icons/netlify.svg" width="30px" height="30px" />
     </div>
