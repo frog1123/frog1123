@@ -16,19 +16,19 @@ I make stuff sometimes.
   <div align="center">
     learning
   </div>
-    <img src="./icons/javascript.svg" width="30px" height="30px" />
-    <img src="./icons/typescript.svg" width="30px" height="30px" />
-    <img src="./icons/react.svg" width="30px" height="30px" />
-    <img src="./icons/next.svg" width="30px" height="30px" />
-    <img src="./icons/tailwindcss.svg" width="30px" height="30px" />
-    <img src="./icons/nodejs.svg" width="30px" height="30px" />
-    <img src="./icons/yarn.svg" width="30px" height="30px" />
-    <img src="./icons/graphql.svg" width="30px" height="30px" />
-    <img src="./icons/apollo.svg" width="30px" height="30px" />
-    <img src="./icons/nest.svg" width="30px" height="30px" />
-    <img src="./icons/mongodb.png"  width="30px" height="30px" >
-    <img src="./icons/git.svg" width="30px" height="30px" />
-    <img src="./icons/heroku.svg" width="30px" height="30px" />
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/javascript.svg" width="30px" height="30px" /></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/typescript.svg" width="30px" height="30px" /></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/react.svg" width="30px" height="30px" /></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/next.svg" width="30px" height="30px" /></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/tailwindcss.svg" width="30px" height="30px" /></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/nodejs.svg" width="30px" height="30px" /></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/yarn.svg" width="30px" height="30px" /></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/graphql.svg" width="30px" height="30px" /></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/apollo.svg" width="30px" height="30px" /></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/nest.svg" width="30px" height="30px" /></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/mongodb.png"  width="30px" height="30px" ></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/git.svg" width="30px" height="30px" /></a>
+    <a href="https://github.com/frog1123/frog1123/"><img src="./icons/heroku.svg" width="30px" height="30px" /></a>
 </div>
 <div align="center">
   <div align="center">
