@@ -26,7 +26,7 @@ I make stuff sometimes.
     <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/pnpm.svg" width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/graphql.svg" width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/apollo.svg" width="30px" height="30px" />
-    <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/primsa.png"  width="30px" height="30px" />
+    <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/prisma.png"  width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/mongodb.png"  width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/git.svg" width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/heroku.svg" width="30px" height="30px" />
