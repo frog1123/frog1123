@@ -18,6 +18,7 @@ I make stuff sometimes.
   </div>
     <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/javascript.svg" width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/typescript.svg" width="30px" height="30px" />
+    <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/rust.svg" width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/react.svg" width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/next.svg" width="30px" height="30px" />
     <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/tailwindcss.svg" width="30px" height="30px" />
