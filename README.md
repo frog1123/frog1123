@@ -8,24 +8,23 @@ I make stuff sometimes.
 
 <div align="center">
 
-  <div align="center">
-  
-    |     |
-    | :-: |
-    |  0  |
-    |  1  |
-    |  2  |
-
-  </div>
-  <div align="center">
-
-    |     |
-    | :-: |
-    |  0  |
-    |  1  |
-    |  2  |
-
-  </div>
+<table>
+  <tr>
+    <th width="33%">Header 1</th>
+    <th width="33%">Header 2</th>
+    <th width="33%">Header 3</th>
+  </tr>
+  <tr>
+    <td>Content 1</td>
+    <td>Content 2</td>
+    <td>Content 3</td>
+  </tr>
+  <tr>
+    <td>Content 4</td>
+    <td>Content 5</td>
+    <td>Content 6</td>
+  </tr>
+</table>
 
 </div>
 <br/>
