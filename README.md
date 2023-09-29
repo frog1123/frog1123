@@ -1,78 +1,11 @@
-<style>
-  
-  .projects-sm {
-    display: none;
-  }
-
-  @media screen and (max-width: 600px) {
-    .projects-sm {
-      display: block;
-    }
-    .projects-lg {
-      display: none;
-    }
-  }
-
-</style>
-
 <h1 align="center">frogdude1123</h1>
-I make stuff sometimes.
+readme
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frog1123&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<div align="center">
-
-  <div class="projects-lg" style="overflow-x:auto;">
-   <table>
-      <tr>
-        <th>Projects</th>
-        <th>Projects</th>
-     </tr>
-      <tr>
-        <td>🌧️🍃🌴🍃🌴🍃🌴🍃🌴🍃🌴🍃</td>
-        <td>🍃🌴🍃🌴🍃🌴🍃🌴🍃🌴🍃🌧️</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/frog1123/new-profile-page">🎉 new-profile-page</a></td>
-        <td><a href="https://github.com/frog1123/iori-bot-v2">🤖 iori-bot-v2</a></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/frog1123/github-stellar-theme-v2">🪐 github-stellar-theme</a></td>
-        <td><a href="https://github.com/frog1123/new-tab-x">🎀 new-tab-x</a></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/frog1123/frog-incremental-v2">🐸 frog-incremental-v2</a></td>
-        <td><a href="https://github.com/frog1123/short-generator">🛸 short-generator</a></td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/frog1123/lotus-create">🪷 lotus-create</a></td>
-        <td><a href=""></a></td>
-      </tr>
-    </table>
-  </div>
-
-  <div class="projects-sm" style="overflow-x:auto;">
-   <table>
-      <tr>
-        <th>Projects</th>
-      </tr>
-      <tr>
-        <td>🌧️🍃🌴🍃🌴🍃🌴🍃🌴🍃🌧️</td>
-      </tr>
-      <tr><td><a href="https://github.com/frog1123/new-profile-page">🎉 new-profile-page</a></td></tr>
-      <tr><td><a href="https://github.com/frog1123/iori-bot-v2">🤖 iori-bot-v2</a></td></tr>
-      <tr><td><a href="https://github.com/frog1123/github-stellar-theme-v2">🪐 github-stellar-theme</a></td></tr>
-      <tr><td><a href="https://github.com/frog1123/new-tab-x">🎀 new-tab-x</a></td></tr>
-      <tr><td><a href="https://github.com/frog1123/frog-incremental-v2">🐸 frog-incremental-v2</a></td></tr>
-      <tr><td><a href="https://github.com/frog1123/short-generator">🛸 short-generator</a></td></tr>
-      <tr><td><a href="https://github.com/frog1123/lotus-create">🪷 lotus-create</a></td></tr>
-    </table>
-  </div>
-
-</div>
 <br/>
 <br/>
 <div align="center">
