@@ -5,6 +5,14 @@ I make stuff sometimes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frog1123&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<div align="center">
+
+|                                                                   |                                                                             |
+| :---------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| <a href="https://github.com/frog1123/iori-bot-v2">iori-bot-v2</a> | <a href="https://github.com/frog1123/new-profile-page">new-profile-page</a> |
+
+</div>
 <br/>
 <br/>
 <div align="center">
@@ -13,6 +21,7 @@ I make stuff sometimes.
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=frog1123&color=grey&style=for-the-badge"></a>
 </div>
 <div align="center">
+
   <div align="center">
     learning
   </div>
