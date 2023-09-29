@@ -1,3 +1,14 @@
+<style>
+  @media screen and (max-width: 600px) {
+    .projects-sm {
+      display: block;
+    }
+    .projects-lg {
+      display: none;
+    }
+  }
+</style>
+
 <h1 align="center">frogdude1123</h1>
 I make stuff sometimes.
 <div align="center">
@@ -8,7 +19,7 @@ I make stuff sometimes.
 
 <div align="center">
 
-  <div style="overflow-x:auto;">
+  <div class="projects-lg" style="overflow-x:auto;">
    <table>
       <tr>
         <th>Projects</th>
@@ -34,6 +45,25 @@ I make stuff sometimes.
         <td><a href="https://github.com/frog1123/lotus-create">🪷 lotus-create</a></td>
         <td><a href=""></a></td>
       </tr>
+    </table>
+  </div>
+
+  <div class="projects-sm" style="overflow-x:auto;">
+   <table>
+      <tr>
+        <th>Projects</th>
+      </tr>
+      <tr>
+        <td>🌧️🍃🌴🍃🌴🍃🌴🍃🌴🍃🌧️</td>
+      </tr>
+      <tr><td><a href="https://github.com/frog1123/new-profile-page">🎉 new-profile-page</a></td></tr>
+      <tr><td><a href="https://github.com/frog1123/iori-bot-v2">🤖 iori-bot-v2</a></td></tr>
+      <tr><td><a href="https://github.com/frog1123/github-stellar-theme-v2">🪐 github-stellar-theme</a></td></tr>
+      <tr><td><a href="https://github.com/frog1123/new-tab-x">🎀 new-tab-x</a></td></tr>
+      <tr><td><a href="https://github.com/frog1123/frog-incremental-v2">🐸 frog-incremental-v2</a></td></tr>
+      <tr><td><a href="https://github.com/frog1123/short-generator">🛸 short-generator</a></td></tr>
+      <tr><td><a href="https://github.com/frog1123/lotus-create">🪷 lotus-create</a></td></tr>
+      <tr><td><a href=""></a></td></tr>
     </table>
   </div>
 
