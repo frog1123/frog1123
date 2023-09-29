@@ -1,4 +1,8 @@
 <style>
+  .projects-sm {
+    display: none;
+  }
+
   @media screen and (max-width: 600px) {
     .projects-sm {
       display: block;
