@@ -8,17 +8,24 @@ I make stuff sometimes.
 
 <div align="center">
 
-|     |
-| :-: |
-|  0  |
-|  1  |
-|  2  |
+  <div align="center">
+  
+    |     |
+    | :-: |
+    |  0  |
+    |  1  |
+    |  2  |
 
-|     |
-| :-: |
-|  0  |
-|  1  |
-|  2  |
+  </div>
+  <div align="center">
+
+    |     |
+    | :-: |
+    |  0  |
+    |  1  |
+    |  2  |
+
+  </div>
 
 </div>
 <br/>
