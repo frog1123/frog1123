@@ -14,7 +14,7 @@ I make stuff sometimes.
     <th width="50%">Header 2</th>
   </tr>
   <tr>
-    <td>Content 1</td>
+    <td><a href="https://github.com/frog1123/new-profile-page">new-profile-page</a></td>
     <td>Content 2</td>
   </tr>
   <tr>
