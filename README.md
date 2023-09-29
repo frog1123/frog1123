@@ -16,12 +16,10 @@ I make stuff sometimes.
   <tr>
     <td>Content 1</td>
     <td>Content 2</td>
-    <td>Content 3</td>
   </tr>
   <tr>
     <td>Content 4</td>
     <td>Content 5</td>
-    <td>Content 6</td>
   </tr>
 </table>
 
