@@ -10,9 +10,8 @@ I make stuff sometimes.
 
 <table>
   <tr>
-    <th width="33%">Header 1</th>
-    <th width="33%">Header 2</th>
-    <th width="33%">Header 3</th>
+    <th width="50%">Header 1</th>
+    <th width="50%">Header 2</th>
   </tr>
   <tr>
     <td>Content 1</td>
