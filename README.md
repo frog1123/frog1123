@@ -8,9 +8,17 @@ I make stuff sometimes.
 
 <div align="center">
 
-|                                                                   |                                                                             |
-| :---------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| <a href="https://github.com/frog1123/iori-bot-v2">iori-bot-v2</a> | <a href="https://github.com/frog1123/new-profile-page">new-profile-page</a> |
+|     |
+| :-: |
+|  0  |
+|  1  |
+|  2  |
+
+|     |
+| :-: |
+|  0  |
+|  1  |
+|  2  |
 
 </div>
 <br/>
