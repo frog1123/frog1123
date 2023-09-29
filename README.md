@@ -8,20 +8,22 @@ I make stuff sometimes.
 
 <div align="center">
 
-<table>
-  <tr>
-    <th width="50%">Header 1</th>
-    <th width="50%">Header 2</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/frog1123/new-profile-page">new-profile-page</a></td>
-    <td>Content 2</td>
-  </tr>
-  <tr>
-    <td>Content 4</td>
-    <td>Content 5</td>
-  </tr>
-</table>
+  <div style="overflow-x:auto;">
+   <table>
+      <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+     </tr>
+      <tr>
+        <td>Content 1</td>
+        <td>Content 2</td>
+      </tr>
+      <tr>
+        <td>Content 3</td>
+        <td>Content 4</td>
+      </tr>
+    </table>
+  </div>
 
 </div>
 <br/>
