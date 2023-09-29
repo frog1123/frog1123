@@ -11,9 +11,13 @@ I make stuff sometimes.
   <div style="overflow-x:auto;">
    <table>
       <tr>
-        <th>Header 1</th>
-        <th>Header 2</th>
+        <th>Projects</th>
+        <th>Projects</th>
      </tr>
+      <tr>
+        <td>🌧️🍃🌴🍃🌴🍃🌴🍃🌴🍃🌴🍃</td>
+        <td>🍃🌴🍃🌴🍃🌴🍃🌴🍃🌴🍃🌧️</td>
+      </tr>
       <tr>
         <td><a href="https://github.com/frog1123/new-profile-page">🎉 new-profile-page</a></td>
         <td><a href="https://github.com/frog1123/iori-bot-v2">🤖 iori-bot-v2</a></td>
