@@ -67,7 +67,6 @@ I make stuff sometimes.
       <tr><td><a href="https://github.com/frog1123/frog-incremental-v2">🐸 frog-incremental-v2</a></td></tr>
       <tr><td><a href="https://github.com/frog1123/short-generator">🛸 short-generator</a></td></tr>
       <tr><td><a href="https://github.com/frog1123/lotus-create">🪷 lotus-create</a></td></tr>
-      <tr><td><a href=""></a></td></tr>
     </table>
   </div>
 
