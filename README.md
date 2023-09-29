@@ -1,4 +1,5 @@
 <style>
+  
   .projects-sm {
     display: none;
   }
@@ -11,6 +12,7 @@
       display: none;
     }
   }
+
 </style>
 
 <h1 align="center">frogdude1123</h1>
