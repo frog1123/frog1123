@@ -35,6 +35,6 @@
   <img src="https://raw.githubusercontent.com/frog1123/frog1123/main/icons/docker.svg" width="30px" height="30px" />
 
   <div>
-    you can find my settings [here](https://github.com/frog1123/general-settings)
+    you can find my settings <a href="https://github.com/frog1123/general-settings">here</a>a
   </div>
 </div>
